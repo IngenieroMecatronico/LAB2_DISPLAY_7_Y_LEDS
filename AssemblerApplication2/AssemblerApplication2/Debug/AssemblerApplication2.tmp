@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\Debug\AssemblerApplication2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication2.map</FILE>
+  <FILE>AssemblerApplication2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <D7Segmentos1><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>25</LINE></D7Segmentos1>
+  <SETUP><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>27</LINE></SETUP>
+  <Init_T0><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>138</LINE></Init_T0>
+  <Contador><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>51</LINE></Contador>
+  <ActivaledInc><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>170</LINE></ActivaledInc>
+  <LOOP><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>62</LINE></LOOP>
+  <Siguecomparando><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>83</LINE></Siguecomparando>
+  <Cambiarbandera><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>88</LINE></Cambiarbandera>
+  <RevisarMaximo><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>100</LINE></RevisarMaximo>
+  <Enciendebandera><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>95</LINE></Enciendebandera>
+  <Enciendeleds><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>113</LINE></Enciendeleds>
+  <Maximonormal><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>108</LINE></Maximonormal>
+  <PresionaPB1><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>146</LINE></PresionaPB1>
+  <IncrementaPB1><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>162</LINE></IncrementaPB1>
+  <PresionaPB2><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>154</LINE></PresionaPB2>
+  <DecrementaPB2><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>182</LINE></DecrementaPB2>
+  <RetrasoPB1><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>149</LINE></RetrasoPB1>
+  <RetrasoPB2><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>157</LINE></RetrasoPB2>
+  <Regreso><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>179</LINE></Regreso>
+  <MuestraLedDec><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>190</LINE></MuestraLedDec>
+  <ActivaLedDec><FILE>C:\Users\ferma\Desktop\Progra de micros\LAB2\AssemblerApplication2\AssemblerApplication2\main.asm</FILE><LINE>196</LINE></ActivaLedDec>
+ </LABELS>
+</ASSEMBLER_INFO>
